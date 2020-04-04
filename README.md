@@ -1,6 +1,6 @@
 # Ecological-security-pattern
 
-这一部分主要记录一下内容
+这一部分主要记录一下内容,代码尚不公开（等论文录用就公开,如果有需要可以邮箱联系blackmhw@gmail.com）
 
 ## 1——Google Earth Engine
 遥感生态指数
